@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="img_width">180dp</dimen>
+    <dimen name="img_height">220dp</dimen>
+    <dimen name="margin_layout">5dp</dimen>
+    <dimen name="text_size">15sp</dimen>
+    <dimen name="tra_img_width">50dp</dimen>
+    <dimen name="tra_img_height">70dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="detail_margin">10dp</dimen>
+    <dimen name="margin_left">15dp</dimen>
+    <dimen name="detail_img_width">400dp</dimen>
+    <dimen name="padding">10dp</dimen>
+</resources>

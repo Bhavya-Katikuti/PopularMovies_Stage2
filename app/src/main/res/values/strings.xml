@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PopularMovies_Stage2</string>
+    <string name="favorite_movies">Favorite_Movies</string>
+    <string name="movieimage">movieImage</string>
+    <string name="default_title">Juarssic World</string>
+    <string name="default_desc">movie sample description</string>
+    <string name="default_release_date">5-11-2015</string>
+    <string name="default_rating">7.5</string>
+    <string name="movie_trailers">Movie_Trailers</string>
+    <string name="movie_reviews">Movie_Reviews</string>
+    <string name="review_author">Review Author</string>
+    <string name="review_content">Review Content</string>
+    <string name="trailer_defaulttext">DisplayText</string>
+    <string name="movieposter">MoviePoster</string>
+    <string name="wait">Please Wait...</string>
+    <string name="release_date">Release Date :</string>
+    <string name="movie_title">Movie Title :</string>
+    <string name="overview">OverView :</string>
+    <string name="vote_average">Vote Average :</string>
+    <string name="fav_movie">Fav Movie :</string>
+    <string name="fav_toast">No Fav Novies To Display</string>
+    <string name="builder_title">Check Internet Connection</string>
+    <string name="builder_message">Please connect to the internet</string>
+    <string name="positive_text">OK</string>
+    <string name="no_display">No Favorites to Display</string>
+    <string name="mov_in">Movie Inserted</string>
+    <string name="mov_del">Movie Deleted</string>
+    <string name="selct_movietype">Please select which MoviesType Do you Want</string>
+    <string name="no_internet">No Internt</string>
+    <string name="opne_fav">Do you Want to Open Favorites</string>
+    <string name="fav">Fav Movies</string>
+</resources>
